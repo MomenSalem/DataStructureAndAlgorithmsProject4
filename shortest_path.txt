@@ -1,0 +1,15 @@
+The longest path from Jenin to Akka is = 71
+to Bethlehem is = 165
+to Haifa is = 106
+to Hebron is = 210
+to Jenin is = 0
+to Jericho is = 82
+to Jerusalem is = 120
+to Nablus is = 43
+to Nazareth is = 38
+to Qalqilya is = 63
+to Ramallah is = 135
+to Salfit is = 93
+to Tubas is = 30
+to Tulkarem is = 52
+to Yafa is = 87
